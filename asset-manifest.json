@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-colors-boxes/static/css/main.91edc333.chunk.css",
+    "main.js": "/react-colors-boxes/static/js/main.87e7154f.chunk.js",
+    "main.js.map": "/react-colors-boxes/static/js/main.87e7154f.chunk.js.map",
+    "runtime-main.js": "/react-colors-boxes/static/js/runtime-main.166b4a4f.js",
+    "runtime-main.js.map": "/react-colors-boxes/static/js/runtime-main.166b4a4f.js.map",
+    "static/js/2.6b6dc8c3.chunk.js": "/react-colors-boxes/static/js/2.6b6dc8c3.chunk.js",
+    "static/js/2.6b6dc8c3.chunk.js.map": "/react-colors-boxes/static/js/2.6b6dc8c3.chunk.js.map",
+    "index.html": "/react-colors-boxes/index.html",
+    "precache-manifest.0edeff64fe17314573fe3b99d8f79433.js": "/react-colors-boxes/precache-manifest.0edeff64fe17314573fe3b99d8f79433.js",
+    "service-worker.js": "/react-colors-boxes/service-worker.js",
+    "static/css/main.91edc333.chunk.css.map": "/react-colors-boxes/static/css/main.91edc333.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166b4a4f.js",
+    "static/js/2.6b6dc8c3.chunk.js",
+    "static/css/main.91edc333.chunk.css",
+    "static/js/main.87e7154f.chunk.js"
+  ]
+}
